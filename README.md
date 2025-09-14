@@ -10,8 +10,6 @@ Bu proje, .NET Core ile geliştirilmiş tam işlevsel bir e-posta yönetim siste
 
 📊 Kullanıcının bugüne kadar gönderdiği ve aldığı e-posta sayılarının görüntülenmesi
 
-✏️ Profil bilgilerini güncelleme
-
 📨 Yeni mesaj gönderme
 
 📥 Gelen kutusu 
