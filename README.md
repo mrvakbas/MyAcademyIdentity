@@ -61,5 +61,6 @@ Kullanıcı bilgileri ise AspNetUsers tablosunda tutulur. Şifreler Identity ile
 <img width="1586" height="719" alt="9" src="https://github.com/user-attachments/assets/e90c486a-0f5f-4f6b-8899-3fddba70f714" />
 <img width="1594" height="728" alt="1" src="https://github.com/user-attachments/assets/da27cd90-e696-4887-89a9-f627378a7cbe" />
 <img width="1591" height="730" alt="2" src="https://github.com/user-attachments/assets/7708de64-1498-4c6c-8fdf-4583bd407458" />
+<img width="1588" height="720" alt="10" src="https://github.com/user-attachments/assets/ad154858-fc45-454d-98ec-1c7b5f431b5e" />
 
 
